@@ -1,0 +1,32 @@
+firefox
+chrome
+EasyBCD
+display fusion
+Notepad++
+open office
+gimp
+picassa
+emco unlockit
+recuva
+dropbox
+googledrive
+sql management studio
+keepass
+ilspy
+itunes
+makemkv
+resize
+imgburn
+malwarebytes
+spybot search
+syncback
+ant renamer
+RoboMongo
+Visual Studio
+avg
+evernote
+irfanview
+microsoft ice
+jzip
+skype
+git
