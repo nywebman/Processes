@@ -30,3 +30,9 @@ microsoft ice
 jzip
 skype
 git
+virtual volumes
+EMCO UnLock IT
+Fiddler
+Microsoft ICE
+git
+Microsoft Sysinternals Suite
