@@ -1,0 +1,6 @@
+de-authorize itunes
+check settings on programs (example wintv)
+run full backup
+format drive
+instal new OS
+instal required applications from "Programs for Clean install"

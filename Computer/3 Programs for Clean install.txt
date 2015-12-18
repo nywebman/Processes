@@ -21,7 +21,7 @@ malwarebytes
 spybot search
 syncback
 ant renamer
-RoboMongo
+RoboMongo / mongodb
 Visual Studio
 avg
 evernote
@@ -36,3 +36,15 @@ Fiddler
 Microsoft ICE
 git
 Microsoft Sysinternals Suite
+free disk analyzer by extensoft
+
+wintv
+
+kiwi log viewer
+MakeMKV
+neo4j
+
+WinTV-HVR-950Q
+http://www.hauppauge.com/site/products/data_wintv8.html
+Epson Perfection V500 Photo Scanner
+http://www.epson.com/cgi-bin/Store/support/supDetail.jsp?oid=88368&infoType=Downloads&platform=OSF_W_10-64

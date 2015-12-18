@@ -1,0 +1,3 @@
+At least once per year scan contents of wallet
+zip images 
+attach to keep pass entry WalletBackup
